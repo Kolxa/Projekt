@@ -1,5 +1,6 @@
 #include <iostream>
 #include "fun.h"
+#include "odej.h"
 using namespace std;
 
 int main()

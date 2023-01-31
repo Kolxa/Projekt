@@ -8,4 +8,5 @@ int add(int x,int y);
 int odej(int x,int y);
 int mnoz(int x,int y);
 
+
 #endif // FUN_H_INCLUDED

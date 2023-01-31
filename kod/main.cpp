@@ -1,6 +1,5 @@
 #include <iostream>
 #include "fun.h"
-#include "odej.h"
 using namespace std;
 
 int main()
@@ -8,5 +7,7 @@ int main()
     int a=5,b=23;
     cout << odej(a,b) <<endl;
     cout << add(a,b) << endl;
+    cout << dziel(a,b) << endl;
+
     return 0;
 }

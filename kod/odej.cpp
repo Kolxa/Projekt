@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
-#include "add.h"
+#include "odej.h"
 
-int odej(int x,int y) {
+int add(int x,int y) {
     return x-y;
 }

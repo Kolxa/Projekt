@@ -1,5 +1,5 @@
 #include <iostream>
-#include "header.h"
+#include "fun.h"
 #include "odej.h"
 using namespace std;
 

@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-#include "header.h"
+#include "fun.h"
 
 int add(int x,int y) {
     return x+y;
